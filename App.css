@@ -1,0 +1,80 @@
+/*import Images from './component/Image';*/
+
+.container {
+                                                   
+  margin-top:100px;
+ margin-bottom: 20px;
+  padding: 30px;
+ 
+}
+.tbody{
+  width: 500px;
+}
+.con{
+  background-image: url(E:/react/empfrontend/src/component/Image/b.png);
+  background-position: center;
+  background-size: cover;
+   width:auto;
+  height: 515px;
+}
+.cont{
+  background-image: url(E:/react/empfrontend/src/component/Image/b.png);
+  background-position: right top;
+  background-size: cover;
+   width:auto;
+   margin-top: 2px;
+  height:520px;
+  display: flex;
+  flex-direction: column; 
+}
+ .contain{
+  background-image: url(E:/react/empfrontend/src/component/Image/b.png);
+  background-position: right top;
+  background-size: cover;
+   width:auto;
+   margin-top: 2px;
+  height:520px;
+  display: flex;
+  flex-direction: column; 
+ }
+.nav{
+  background-color: rgb(185, 243, 227);
+}
+
+.container{
+  margin-top: 1px;
+  border-color:black ;
+   border-radius: 20px;
+}
+.createform{
+  width: 450px;
+  height:450px;
+  padding:20px;
+  border:10px;
+  border-color: black;
+  background-color: transparent;
+  margin:auto;
+  margin-top: 40px;
+  border-radius: 20px;
+  box-shadow: 2px 3px 3px 3px;
+}
+.updateform
+{
+  width: 450px;
+  height:450px;
+  padding:20px;
+  border:10px;
+  border-color: black;
+  background-color: transparent;
+  margin:auto;
+  margin-top: 40px;
+  border-radius: 20px;
+  box-shadow: 2px 3px 3px 3px;
+}
+.btn{
+  width:80px;
+  height:35px;
+  background-color: rgb(99, 99, 228);
+  align:left;
+}
+
